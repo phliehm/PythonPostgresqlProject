@@ -26,3 +26,7 @@ or http://127.0.0.1:5000/employees/2 to test the id
 --> learned: pay attention to the data types so that data can be converted to json
 (I had the problem that the query gave for the date a datetime.date type which leads to an error when converting the datastructure to json)
 
+To Do:
+- refactor the methods and functions so that there is not that much repition. 
+- write more query functions
+- Can I manipulate the data over the webpage? --> How?
